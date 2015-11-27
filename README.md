@@ -26,8 +26,8 @@ C++14に対応したコンパイラ(clang推奨)、Boost、CMakeが必要です�
 
 ### How to build
 
-    > $ cd /path/to/dir/chomado-cmd
-    > $ mkdir build
-    > $ cd build
-    > $ cmake ..
-    > $ make
+    $ cd /path/to/dir/chomado-cmd
+    $ mkdir build
+    $ cd build
+    $ cmake ..
+    $ make
